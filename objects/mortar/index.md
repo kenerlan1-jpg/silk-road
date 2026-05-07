@@ -3,7 +3,7 @@ author: Camilla Torres
 title: "Mortar made for Abu Bakr 'Ali Malikzad al-Tabrizi"
 layout: base
 header-image: images/cropped-theme-essay-header.jpg
-thumbnail: images/cropped-theme-essay-header.jpg
+thumbnail: images/mortar.jpg
 summary: This object is a Mortar made for Abu Bakr 'Ali Malikzad al-Tabrizi, made most likely in Iran, from the late 12th-early 13th century. The object is currently displayed at the Metropolitan Museum of Art in New York, object number 91.1.527a, b. It is made of bronze and inlaid with a silver and black compound. The object serves as a display of the elite status of its owner, and informs us how artistry interacted with culture and elite power in the medieval Seljuk court.
 geo: [38.10263179378023, 46.364599599719526]
 placename: Tabriz, Iran

@@ -3,7 +3,7 @@ author: Camilla Torres
 title: "al-Tannin Qazwini's The Wonders of Creation and the Oddities of Existence"
 layout: base
 header-image: images/cropped-theme-essay-header.jpg
-thumbnail: images/cropped-theme-essay-header.jpg
+thumbnail: images/al-tannin-dragon.jpg
 summary: This object is folio 73v from The Wonders of Creation and the Oddities of Existence, attributed to the artist and scholar Zakariya al-Qazwini, created in Wasit, Iraq, in 1280. It depicts a coiled dragon with a long, serpentine form, covered in spikes, appearing like a sea creature. Unlike a narrative-based depiction, this folio presents the dragon as a creature of legitimate intellectual study, situating it within a larger system of cosmological organization. 
 geo: [32.54268942530971, 45.83480199439384]
 placename: Wasit Area, Iraq

@@ -3,7 +3,7 @@ author: Camilla Torres
 title: "Bowl with Dragons"
 layout: base
 header-image: images/cropped-theme-essay-header.jpg
-thumbnail: images/cropped-theme-essay-header.jpg
+thumbnail: images/bowl-with-dragons.jpg
 summary: TThis object is titled “Bowl with Dragons,” dated 607 AH/1210 CE, and was likely produced in Iran. The dragon iconography around the bowl, with concentric coiling rings and meeting heads, has been sighted by some scholars as a depiction of al-Jawzahr, a dragon entity believed to both cause and reverse eclipses by swallowing the moon and sun. From script around the rim and the imagery of al-Jawzahr, it is believed to have had an apotropaic function.	
 geo: [38.10263179378023, 46.364599599719526]
 placename: Tabriz, Iran
