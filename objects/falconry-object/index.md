@@ -1,74 +1,45 @@
 ---
 author: Caden Williams
-title: "Sports on the Silk Road"
+title: "Falconry Fan Painting"
 layout: base
-header-image: images/DP153514.jpg
+header-image: images/falconry header .png
 thumbnail: images/DP153514.jpg
-summary: The image is of Nomads hunting with falcons.
+summary: A fan painting showing nomadic horsemen hunting with falcons, a skill-based practice connected to mobility, training, and elite culture.
 geo: [30.274, 120.153]
 placename: Lin'an
 tags: falcon, hunting, china
   - object
 ---
+# Falconry Fan Painting
+## A Coordinated Hunting Scene on Horseback
 
-# Fan Painting
-
-{% include images/figure.html
-class="right"
-width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images-copy/DP153514.jpg"
-%}
-
-The second object is a fan painting showing nomadic horsemen hunting with falcons. The figures are spread across an open landscape, with several riders holding birds of prey while others appear to be observing or preparing to participate in the hunt. One rider is actively releasing a falcon, while the others remain positioned on horseback, which suggests that the scene captures a coordinated moment within a larger hunting activity rather than something random or isolated. What stands out most in the image is how controlled and deliberate the activity looks. Falconry is not something that can be done casually, and the way the figures are arranged reflects that. The rider releasing the bird has to manage both the movement of the horse and the timing of the falcon, while the other riders maintain distance and awareness. That level of coordination suggests that each participant has a role, and that the hunt itself follows a structure. Instead of just being about catching prey, the scene reflects a process that depends on training, control, and repeated practice. 
-
-Looking at falconry more closely helps explain why the scene appears so organized. Otsuka describes falconry as a “cooperative hunting method,” where both the human and the bird must be trained to respond to one another.[^randomthing] That relationship is important because it means the success of the activity depends on communication and control rather than chance. The bird is not acting independently, and the hunter is not acting alone. Both are part of a system that has to be developed over time. That level of interaction makes falconry feel closer to a sport than simple hunting, since it involves skill, repetition, and technique. The long history of falconry also helps place the image in a broader context. Research on raptor use in western China shows that falconry practices have deep roots in Central Asian and steppe cultures, where hunting with birds of prey was a well-established tradition.[^randomthing] These practices were closely connected to the lifestyle of nomadic groups, who depended on mobility and knowledge of the environment. The presence of horseback riders in the painting reflects that background, since horses were essential for both travel and hunting across the steppe. The combination of horseback riding and falconry suggests a form of activity that required multiple skills at once, reinforcing the idea that it was highly developed. 
-
-Another important aspect of falconry is its connection to elite culture. While hunting could serve practical purposes, falconry in particular became associated with wealth and status. Falconry often required significant time, training, and resources, which suggests it was not easily accessible to everyone. The presence of multiple riders in the painting also suggests that the activity could involve coordinated group participation rather than a single individual. That kind of setting points to falconry as something that was organized and practiced at a higher level, rather than only being used for basic subsistence. The same source notes that falconry originated in Central Asia and later expanded into China, the Middle East, and other parts of Eurasia.[^randomthing] Because nomadic groups were already highly mobile, they played a major role in carrying these practices across long distances. Additional research confirms that falconry remained culturally significant in western China, showing that it continued to be practiced and adapted over time.[^randomthing] This pattern of movement is important because it shows how activities like falconry were not limited to one place, but instead became part of a shared cultural tradition. 
-
-In that sense, the painting represents more than just a moment of hunting. It reflects a structured and skill-based activity that required training, coordination, and social organization. At the same time, the spread of falconry across different regions connects it directly to the movement of ideas and practices along the Silk Road. Falconry shows how a single activity could develop in one area and then be carried across cultures, where it continued to evolve while still maintaining its core features. 
-
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
-
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
+The second object is a fan painting showing nomadic horsemen hunting with falcons. The figures are spread across an open landscape, with several riders holding birds of prey while others appear to be observing or preparing to participate in the hunt. One rider is actively releasing a falcon, while the others remain positioned on horseback, which suggests that the scene captures a coordinated moment within a larger hunting activity rather than something random or isolated. What stands out most in the painting is how controlled and deliberate the activity looks. Falconry is not something that can be done casually, and the way the figures are arranged reflects that. The rider releasing the bird has to manage both the movement of the horse and the timing of the falcon, while the other riders maintain distance and awareness. That level of coordination suggests that each participant has a role, and that the hunt itself follows a structure. Instead of just being about catching prey, the scene reflects a process that depends on training, control, and repeated practice. 
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## Training, Coordination, and Skill
+{% include images/figure.html class="right" width="48%" caption="A falconry fan painting showing nomadic horsemen hunting with falcons across an open landscape. [Source](https://www.metmuseum.org/art/collection/search/40094)" image-path="images/DP153514.jpg" %} 
+Looking at falconry more closely helps explain why the scene appears so organized. Otsuka describes falconry as a “cooperative hunting method,” where both the human and the bird must be trained to respond to one another.[^1] That relationship is important because it means the success of the activity depends on communication and control rather than chance. The bird is not acting independently, and the hunter is not acting alone. Both are part of a system that has to be developed over time. That level of interaction makes falconry feel closer to a sport than simple hunting, since it involves skill, repetition, and technique. The long history of falconry also helps place the painting in a broader context. Research on raptor use in western China shows that falconry practices have deep roots in Central Asian and steppe cultures, where hunting with birds of prey was a well-established tradition.[^2] These practices were closely connected to the lifestyle of nomadic groups, who depended on mobility and knowledge of the environment. The presence of horseback riders in the painting reflects that background, since horses were essential for both travel and hunting across the steppe. The combination of horseback riding and falconry suggests a form of activity that required multiple skills at once, reinforcing the idea that it was highly developed. 
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+[^1]: Noriko Otsuka, “Falconry: Tradition and Acculturation,” *International Journal of Sport and Health Science* 4 (2006): 198.
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+[^2]: R. MaMing et al., “Raptor Conservation and Culture in the West of China,” *Ela Journal* 3, no. 1 (2014): 24.
 
+## Elite Activity and Cultural Status
+{% include images/figure.html class="left" width="40%" caption="A prince holding a falcon, showing the close connection between falconry and elite life. [Source](https://www.metmuseum.org/art/collection/search/767842)" image-path="images/elite falconry.jpeg" %}
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+Another important aspect of falconry is its connection to elite culture. While hunting could serve practical purposes, falconry in particular became associated with wealth and status. Falconry often required significant time, training, and resources, which suggests it was not easily accessible to everyone. The presence of multiple riders in the painting also suggests that the activity could involve coordinated group participation rather than a single individual. That kind of setting points to falconry as something that was organized and practiced at a higher level, rather than only being used for basic subsistence. The same source notes that falconry originated in Central Asia and later expanded into China, the Middle East, and other parts of Eurasia.[^3] Because nomadic groups were already highly mobile, they played a major role in carrying these practices across long distances. Additional research confirms that falconry remained culturally significant in western China, showing that it continued to be practiced and adapted over time.[^4] This pattern of movement is important because it shows how activities like falconry were not limited to one place, but instead became part of a shared cultural tradition.
 
+[^3]: Otsuka, “Falconry,” 198.
+
+[^4]: MaMing et al., “Raptor Conservation and Culture,” 24.
+
+## Falconry in a Silk Road Context
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-blushwood.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+Falconry shows how a single activity could develop in one area and then be carried across cultures, where it continued to evolve while still maintaining its core features." %}
+In that sense, the painting represents more than just a moment of hunting. It reflects a structured and skill-based activity that required training, coordination, and social organization. At the same time, the spread of falconry across different regions connects it directly to the movement of ideas and practices along the Silk Road. Falconry shows how a single activity could develop in one area and then be carried across cultures, where it continued to evolve while still maintaining its core features. 
 
 ---
 
 ## Bibliography
-
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- MaMing, R., X. M. Zhao, G. H. Xu, J. Caiwu, T. Zhang, P. Ding, and F. Xu. “Raptor Conservation and Culture in the West of China.” *Ela Journal* 3, no. 1 (2014): 23–29.
+- Otsuka, Noriko. “Falconry: Tradition and Acculturation.” *International Journal of Sport and Health Science* 4, no. Special Issue 2 (2006): 198–207. https://doi.org/10.5432/ijshs.4.198.   
