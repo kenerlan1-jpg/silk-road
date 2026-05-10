@@ -127,7 +127,7 @@
         "baseurl": {{ site.baseurl | jsonify }},
         "url": {{ page.url | jsonify }},
         "dir": {{ page.dir | jsonify }},
-        "headerimage": {{ page["header-image"] | jsonify }},
+        "thumbnail": {{ page["thumbnail"] | jsonify }},
         "placename": {{ page.placename | jsonify }},
         "summary": {{ page.summary | jsonify }},
         "geo": {{ page.geo | jsonify }}
@@ -180,7 +180,7 @@
 
       // Build popup HTML
       const baseUrl = p.baseurl || "";
-      const imagePath = p.headerimage ? `${baseUrl}${p.dir}/${p.headerimage}` : "";
+      const imagePath = p.thumbnail ? `${baseUrl}${p.dir}/${p.thumbnail}` : "";
       const imgHtml = imagePath
         ? `<img src="${imagePath}" alt="${p.title}">`
         : "";
