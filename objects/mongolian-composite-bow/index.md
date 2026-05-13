@@ -1,15 +1,15 @@
 ---
-author: student name
-title: "Altarpiece from a Monastery"
+author: Ken Meir
+title: "Mongolian Composite Bow"
 layout: base
-header-image: images/han-coin-two-sides-violet.png
-thumbnail: images/han-coin-violet.png
-summary: This image is of the Han coin, not an altarpiece from a monastery.
+header-image: images/mongolian_quiver.jpg
+thumbnail: images/mongolian_quiver.jpg
+summary: Quiver from a Mongolian Composite Bow. A tool that enabled high precision horse back shooting.
 tags:
   - object
 ---
 
-# The Altarpiece from a Monastery
+# Mongolian Composite Bow
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
@@ -20,15 +20,15 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-violet.png"
+caption="This is a quiver from a Mongolian Composite Bow. [Source](https://www.metmuseum.org/art/collection/search/634458)"
+image-path="images/mongolian_quiver.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^source1]
 
-[^randomthing]:Put your source information here.
+[^source1]:*The Met* author name.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
