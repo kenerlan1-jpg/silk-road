@@ -17,7 +17,7 @@ tags:
 class="right"
 width="48%"
 caption="This is a shard of a glass bowl. The figure is painted with gold leaf. [Source](https://www.metmuseum.org/art/collection/search/465928)"
-image-path="shard.jpg"
+image-path="images/shard.jpg"
 %}
 
 This object is a fragment from a bowl base. It is from the Byzantine empire or the Roman. While hard to pin down its location due to similar artstyles and the moving of the Roman capital, we do know the bowl is from around the 4th century. The bowl is also made of glass and she was painted with gold leaf. As you can see, it has a portrait of a woman printed on it. Her clothing is elegant, and it appears she has a scroll. While we cannot see the full picture, we can tell she was likely noble.[^source1]
