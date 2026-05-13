@@ -3,6 +3,7 @@ author: Ken Meir
 title: "Mongolian Composite Bow"
 layout: base
 header-image: images/mongolian_quiver.jpg
+header-position: center 40%
 thumbnail: images/mongolian_quiver.jpg
 summary: Quiver from a Mongolian Composite Bow. A tool that enabled high precision horse back shooting.
 tags:
