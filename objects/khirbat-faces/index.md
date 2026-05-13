@@ -1,74 +1,47 @@
 ---
-author: student name
-title: "Khirbat al-Mafjar Faces"
+author: safa bamatraf
+title: "Khirbat al-Mafjar Faces" 
 layout: base
 header-image: images/khirbat-faces.jpg
 thumbnail: images/khirbat-faces.jpg
-summary: This image is of the Han coin, not an altarpiece from a monastery.
-geo: [47.199, 102.834]
-placename: Karakorum
+summary: These are protruding faces in the Byzantine style in a Umayyad palace in Jordan.
+geo: [31.882, 35.4599]
+placename: Khirbat al-Mafjar
 tags:
   - object
 ---
 
 # The Altarpiece from a Monastery
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+Khirbat al-Mafjar, also called Hisham’s Palace, is located in Jericho, Palestine. The structure follows the trend of Umayyad architecture by being incredibly Byzantine. The floors are covered in mosaic work that encapsulates the combination of Sasanian imagery with Byzantine techniques.
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+The stucco work present is also an obvious continuation of art trends. In the broader space of the building, there is imagery representing the crown of Kisra, a famous Sasanian king. The crown is represented in the stepped crenelations and in some parts of the mosaic work. Some of the most famous aspects of the palace are both found in the bathhouse. This room has many different designs in mosaic, including a tree of life and a sun with a fruit and a knife on either side. 
 
 
-## Your First Section Heading
+
+## Background on the Building
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
+caption="The faces protrude. [Source](https://www.tandfonline.com/cms/asset/46585468-5f63-4e5c-9663-90215ad93232/calm_a_1635347_f0003_oc.jpg)"
 image-path="images/khirbat-faces.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+As is the case with most palaces, Khirbat al-Mafjar and its architectural inclusions served as a status symbol. Aspects like the stuccowork were made to resemble the carpets. This puts Khirbat al-Mafjar not only as a continuation of the cultures previously mentioned, but it also ties it into the further context of the silk road. Arguments have been made that they were stylistically influenced by the textile trade that made its way to Umayyad ruled areas via the silk road. This means that the artwork shares connections with lands as far reaching as China.[^fn1] 
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+[^fn1]: Hana Taragan, “Textiles in Cross Cultural Encounters The Case of the Umayyad Palace at Khirbat Al Mafjar,” *Al Masaq,* (2019): 1. doi:10.1080/09503110.2019.1635347.
 
-[^randomthing]:Put your source information here.
+## Description
+Continuing on to the stucco frieze heads, these are located at the entrance of the palace. The faces are all unique to one another, showcasing a variety of different hairstyles and clothing. The clothes that they wear are distinctly byzantine in fashion as is the curlyness of their hair. Each of the faces are looking in differing directions further showing the differences that their varying facial features do. The bases for the heads are wrapped in pearl bands that loop around each other. At the loops, there are flowers present. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+## Analysis
+It has been suggested that these faces are meant to be a representation of paradise. This is, of course, an abstract representation of heaven. Evidence for this interpretation comes from the fact that the medallions have eight point daisies. The number eight in Islam is highly symbolic and oftentimes is pointed in relation to their being eight levels of heaven, with Allah’s throne as being the top most layer. The number is also believed to be associated with eternity and/or self-destruction. In this instance, it is likely meant to represent heaven as being eternal. There are other representations of heaven found within Khirbat al-Mafjar, so it stands to reason that this would be a continuation of the structure’s theme.[^fn2] 
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
-
-
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
-
-
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
-
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+[^fn2]: Siyana Georgieva, "The Complex Roots of the Figures Modellate in Stucco inside the Khirbat Al-Mafjar - Some Observations," *Anastasis: Research in Medieval Culture & Art 11,* no.1, (2024): 113. https://doi.org/10.35218/armca.2024.1.04.
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Georgieva, Siyana. “The Complex Roots of the Figures Modellate in Stucco inside the Khirbat Al-Mafjar - Some Observations.” *Anastasis: Research in Medieval Culture & Art* 11, no. 1 (2024): 83–119.
+- Taragan, Hana. “Textiles in Cross Cultural Encounters The Case of the Umayyad Palace at Khirbat Al Mafjar.” *Al Masaq,* (2019): 1-17.
