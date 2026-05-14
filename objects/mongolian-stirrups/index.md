@@ -12,7 +12,7 @@ tags:
 
 # Horse Stirrups
 
-A simple metal or wooden fixture in the sole of a horse’s rider’s foot, the stirrup has been one of the most underappreciated military technologies of all time. The paired iron stirrups of the Mongol saddle were designed to be used in conjunction with a high-pommel wooden saddle. This allowed the warrior to lock his feet into the stirrups and stand upright in the saddle with his upper body free to turn in any direction. Thus the ‘Parthian Shot’ became possible – firing an arrow backwards over his shoulder while riding in the opposite direction. And he could do this for hours on end. [^source] (https://opentextbooks.clemson.edu/sciencetechnologyandsociety/chapter/technological-developments-in-the-mongol-empire/)
+A simple metal or wooden fixture in the sole of a horse’s rider’s foot, the stirrup has been one of the most underappreciated military technologies of all time. The paired iron stirrups of the Mongol saddle were designed to be used in conjunction with a high-pommel wooden saddle. This allowed the warrior to lock his feet into the stirrups and stand upright in the saddle with his upper body free to turn in any direction. Thus the ‘Parthian Shot’ became possible – firing an arrow backwards over his shoulder while riding in the opposite direction. And he could do this for hours on end. [^source1]: (https://opentextbooks.clemson.edu/sciencetechnologyandsociety/chapter/technological-developments-in-the-mongol-empire/)
 
 
 ## Importance to the Empire
@@ -25,7 +25,7 @@ image-path="images/stirrup-2.jpg"
 
  The stirrups of the Mongol Army played a huge part in the immense mobility of their troops. They were a fundamental aspect of the tactics that the Mongols employed to crush their enemies, combining the power of the horse with that of the rider. Above all the stirrups allowed the precision archery from moving horses at high speed, that the Mongols used to such devastating effect. The army of Genghis was able to travel 80 to 100 miles a day, arrive at a distance in a very short space of time and then concentrate their troops on the enemy. In this way the Mongols were able to defeat opponents who greatly outnumbered them.
 
-.[^source1]
+[^source1]
 
 [^source1]:*The Met*
 
