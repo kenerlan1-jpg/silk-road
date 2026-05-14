@@ -12,8 +12,11 @@ tags:
 
 # Horse Stirrups
 
-A simple metal or wooden fixture in the sole of a horse’s rider’s foot, the stirrup has been one of the most underappreciated military technologies of all time. The paired iron stirrups of the Mongol saddle were designed to be used in conjunction with a high-pommel wooden saddle. This allowed the warrior to lock his feet into the stirrups and stand upright in the saddle with his upper body free to turn in any direction. Thus the ‘Parthian Shot’ became possible – firing an arrow backwards over his shoulder while riding in the opposite direction. And he could do this for hours on end. [^source2]
-[^source2]::(https://opentextbooks.clemson.edu/sciencetechnologyandsociety/chapter/technological-developments-in-the-mongol-empire/)
+A simple metal or wooden fixture in the sole of a horse’s rider’s foot, the stirrup has been one of the most underappreciated military technologies of all time. The paired iron stirrups of the Mongol saddle were designed to be used in conjunction with a high-pommel wooden saddle. This allowed the warrior to lock his feet into the stirrups and stand upright in the saddle with his upper body free to turn in any direction. Thus the ‘Parthian Shot’ became possible – firing an arrow backwards over his shoulder while riding in the opposite direction. And he could do this for hours on end. 
+
+[^source2]
+
+[^source2]:(https://opentextbooks.clemson.edu/sciencetechnologyandsociety/chapter/technological-developments-in-the-mongol-empire/)
 
 
 ## Importance to the Empire
