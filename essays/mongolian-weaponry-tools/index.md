@@ -1,10 +1,10 @@
 ---
-author: student name
-title: "Camels on the Silk Road Trade Network"
+author: Ken Meir
+title: "Mongolian Weaponry & Tools"
 layout: base
-header-image: images/
-thumbnail: images/
-summary: In the premodern era, camels were key to the functioning of the Silk Road Trade Network.
+header-image: images/thematic-pic.jpg
+thumbnail: images/thematic-pic.jpg
+summary: During the expansion of the Silk Road, the Mongol Empire played a significant role in shaping the history we study today.
 ---
 
 # Example Thematic Essay
