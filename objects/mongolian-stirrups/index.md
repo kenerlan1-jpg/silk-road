@@ -12,7 +12,7 @@ tags:
 
 # Horse Stirrups
 
-A simple metal or wooden fixture in the sole of a horse’s rider’s foot, the stirrup has been one of the most underappreciated military technologies of all time. The paired iron stirrups of the Mongol saddle were designed to be used in conjunction with a high-pommel wooden saddle. This allowed the warrior to lock his feet into the stirrups and stand upright in the saddle with his upper body free to turn in any direction. Thus the ‘Parthian Shot’ became possible – firing an arrow backwards over his shoulder while riding in the opposite direction. And he could do this for hours on end. [source] (https://opentextbooks.clemson.edu/sciencetechnologyandsociety/chapter/technological-developments-in-the-mongol-empire/)
+A simple metal or wooden fixture in the sole of a horse’s rider’s foot, the stirrup has been one of the most underappreciated military technologies of all time. The paired iron stirrups of the Mongol saddle were designed to be used in conjunction with a high-pommel wooden saddle. This allowed the warrior to lock his feet into the stirrups and stand upright in the saddle with his upper body free to turn in any direction. Thus the ‘Parthian Shot’ became possible – firing an arrow backwards over his shoulder while riding in the opposite direction. And he could do this for hours on end. [^source] (https://opentextbooks.clemson.edu/sciencetechnologyandsociety/chapter/technological-developments-in-the-mongol-empire/)
 
 
 ## Importance to the Empire
@@ -27,9 +27,7 @@ image-path="images/stirrup-2.jpg"
 
 .[^source1]
 
-[^source1]:*The Met* author name.
-
-[^anotherrandomthing]
+[^source1]:*The Met*
 
 ## The Yam System
 As for the importance of stirrups to the Silk Road, they were the foundation for the Mongol’s Yam system, the world’s first international postal service. Mongol couriers knew that their endurance on horseback was key to this system’s success.
