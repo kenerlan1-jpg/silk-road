@@ -2,15 +2,15 @@
 author: Ken Meir
 title: "Mongolian Composite Bow"
 layout: base
-header-image: images/mongolian_quiver.jpg
+header-image: images/stirrup.jpg
 header-position: center 40%
-thumbnail: images/mongolian_quiver.jpg
-summary: Quiver from a Mongolian Composite Bow. A tool that enabled high precision horse back shooting.
+thumbnail: images/stirrup.jpg
+summary: Stirrups: a revolutinary tool that allowed the Mongol army to raze nations.
 tags:
   - object
 ---
 
-# Mongolian Composite Bow
+# Stirrups
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
