@@ -1,6 +1,6 @@
 ---
 author: Ken Meir
-title: "Mongolian Composite Bow"
+title: "Stirrups"
 layout: base
 header-image: images/stirrup.jpg
 header-position: center 40%
