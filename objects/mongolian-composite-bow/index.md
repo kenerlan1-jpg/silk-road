@@ -12,62 +12,56 @@ tags:
 
 # Mongolian Composite Bow
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+The Mongolian composite bow was the superweapon of the 13th century, the European longbow made of a single piece of wood was no match for this highly developed piece of equipment made of birch wood, animal horn and sinew all glued together with a sticky fish bladder substance. This very compact bow stored a massive amount of potential energy, the strongly recurved limbs when unstrung would be angled away from the archer.
 
 
-## Your First Section Heading
+
+
+## Importance to the Empire
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a quiver from a Mongolian Composite Bow. [Source](https://www.metmuseum.org/art/collection/search/634458)"
+caption="Inscribed quiver from a Mongolian Composite Bow. [Source](https://www.metmuseum.org/art/collection/search/634458)"
 image-path="images/mongolian_quiver.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+.[^source1]
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^source1]
+[^source1]:*The Met* Kurt Behrendt.
 
-[^source1]:*The Met* author name.
+The Composite Bow, with this massive amount of power packed into such a small form, could be fired off from horseback at targets half a mile away or more. Each of the Mongol horsemen could shoot off arrow after arrow, all hitting their target before the enemy could get close. The thumb ring of stone or bone found on the ends of many archers fingers would be used instead of finger draw. This would help to allow for the faster release of arrows from the powerful bow. The result of using such a device would be that an archer could take aim at a target and then loose off the string in the matter of a couple of seconds. In turn, that arrow would reach its target in the matter of a few seconds, with the utmost of precision. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+[^anotherrandomthing]
 
 [^anotherrandomthing]:Put your next footnote source information here.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## Effect on Military Dominance
+It was this very style of fighting that would eventually lead to the development of the “Kite” or “Flight of the Geese” tactic in which a group of troops, or a tumen, would scatter arrows at enemy lines and then fall back. The archers would then return to the attack, firing off more arrows from their positions in the front lines of the troops. While mid 20th century Germany, popularized Blitzkrieg, the Mongols set the foundation with their tactics, and use of bows.
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
 
 
 ## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+Along the Silk Road, the Mongols used their mighty composite bow to establish and enforce the Pax Mongolica, or the Mongols’ Peace, that they had established on the trade routes they had conquered.
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+Mongolian archers were some of the most skilled and feared in all of history, and their bows were a big part of that. Mongol bows are shorter than other types of bows, which made them more maneuverable and easier to carry. This powerful and feared weapon was a key part of the Mongol Empire’s vast conquests" %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+The highly mobile archers of a tumen, even a detachment of it, were sufficient to guarantee the safety of the merchants of the world’s most important trade routes.
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+The mere presence of a Mongol archer was sufficient to deter any bandits from attacking along the world’s first global economy’s vital infrastructure.
 
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+## Common Tactics
+{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/mongolia-acher.png" %}
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+TThe famous ‘retreat’ or ‘fake retreat’ of the Mongol archers: They would fight their enemies for a short time and then retreat in apparent disarray. The enemy would pursue the apparent retreat in disarray. The pursuers would become more and more tired, their horses worn out. Then the Mongols would turn around to face their enemies in apparent disarray. They could also deliver the famous ‘Parthian shot’. While riding back down the line of their victims the Mongol archer would fire his bow backwards while riding at full gallop with all four hooves in the air.
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Finn, Tahric. 2022. “Mongolian Bow: History, Design & Performance - Archery Supplier.” Archerysupplier.com. April 24, 2022. https://archerysupplier.com/mongolian-bow-history-guide/.
+- Wikipedia Contributors. 2019. “Mongol Bow.” Wikipedia. Wikimedia Foundation. May 23, 2019. https://en.wikipedia.org/wiki/Mongol_bow.
+- Holmes, Holmes. "Horse Archers: The Feared Unit of Ancient and Medieval Warfare" TheCollector.com, https://www.thecollector.com/robertholmes/ (accessed September 4, 2023).
+- Quiver Decorated with the Eight Auspicious Symbols, 14th–16th century, The Met, New York City, https://www.metmuseum.org/art/collection/search/634458 
