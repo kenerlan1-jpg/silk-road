@@ -2,9 +2,9 @@
 author: Ken Meir
 title: "Stirrups"
 layout: base
-header-image: images/stirrup.jpg
+header-image: images/strirrup.jpg
 header-position: center 40%
-thumbnail: images/stirrup.jpg
+thumbnail: images/strirrup.jpg
 summary: Stirrups: a revolutinary tool that allowed the Mongol army to raze nations.
 tags:
   - object
@@ -22,7 +22,7 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 class="right"
 width="48%"
 caption="This is a quiver from a Mongolian Composite Bow. [Source](https://www.metmuseum.org/art/collection/search/634458)"
-image-path="images/mongolian_quiver.jpg"
+image-path="images/strirrup.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
