@@ -1,16 +1,16 @@
 ---
 author: Ken Meir
-title: "Stirrups"
+title: "Mongolian Curved Sword"
 layout: base
-header-image: images/strirrup.jpg
+header-image: images/mongolian-sword.jpg
 header-position: center 40%
-thumbnail: images/stirrup-2.jpg
-summary: Used to enchance stability during horse riding. Saw use by Mongolian horse back archers to increase precision.
+thumbnail: images/mongolian=sword.jpg
+summary: Standard issue sword for Mongolian cavalry. The curve edge of the blade made slashing from horseback easier.
 tags:
   - object
 ---
 
-# Horse Stirrups
+# Mongolian Sword
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
@@ -22,7 +22,7 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 class="right"
 width="48%"
 caption="This is a quiver from a Mongolian Composite Bow. [Source](https://www.metmuseum.org/art/collection/search/634458)"
-image-path="images/stirrup-2.jpg"
+image-path="images/mongolian-sword.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
