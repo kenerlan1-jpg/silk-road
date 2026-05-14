@@ -5,7 +5,7 @@ layout: base
 header-image: images/strirrup.jpg
 header-position: center 40%
 thumbnail: images/strirrup.jpg
-summary: Stirrups: a revolutinary tool that allowed the Mongol army to raze nations.
+summary: Stirrups, a revolutinary tool that allowed the Mongol army to raze nations.
 tags:
   - object
 ---
