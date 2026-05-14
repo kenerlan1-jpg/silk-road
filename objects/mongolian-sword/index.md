@@ -4,7 +4,7 @@ title: "Mongolian Curved Sword"
 layout: base
 header-image: images/mongolian-sword.jpg
 header-position: center 40%
-thumbnail: images/mongolian=sword.jpg
+thumbnail: images/mongolian-sword.jpg
 summary: Standard issue sword for Mongolian cavalry. The curve edge of the blade made slashing from horseback easier.
 tags:
   - object
