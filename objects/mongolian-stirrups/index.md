@@ -68,3 +68,4 @@ The equestrian revolution brought about by these stirrups was to have a profound
 - Ferragamo, Federico. 2022. “Technological Spread from Central Eurasia.” ArcGIS StoryMaps. Esri. December 17, 2022. https://storymaps.arcgis.com/stories/a3ed74e646844a0f995981d5e24823d8.
 - Norman, Jeremy. n.d. “Genghis Kahn Installs a Postal System within the Mongol Empire and China : History of Information.” Historyofinformation.com. https://historyofinformation.com/detail.php?id=3043.
 - Pittard, Dana. 1986. “Genghis Khan and 13th-Century AirLand Battle.” Www.armyupress.army.mil. July 1986. https://www.armyupress.army.mil/Journals/Military-Review/Directors-Select-Articles/Genghis-Khan/.
+- Stirrup, 16th-17th Century, The Met, New York City, https://www.metmuseum.org/art/collection/search/35172
