@@ -46,7 +46,7 @@ A further important aspect of the armor was its export on the Silk Road to the W
 [^source3]:Aarathi Prasad, How Silk Helped the Armies of Genghis Khan Conquer Asia, 1
 
 ## Direct Comparison
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://www.metmuseum.org/art/collection/search/788894)" image-path="images/mongol-armor.jpg" %}
+{% include images/figure.html class="right" width="60%" caption="Mongolian Lamellar Armor. [Source](https://www.metmuseum.org/art/collection/search/788894)" image-path="images/mongol-armor.jpg" %}
 
 European knights of the 13th century were clad in chainmail or very early plate armor, as opposed to other nations. Chainmail restricted movement somewhat, early plate armor even more, but for the Chinese Song Dynasty infantry it was far too heavy to be of any use. Fast moving Mongol cavalry, traveling long distances at high speed, required scale armor, but not too dense for close quarters combat. The emphasis for the Mongols was speed. Their armor needed to be strong enough but still retain the artibutes for fast scale warfare, that Genghis Khan used to suprise opponents.
 
