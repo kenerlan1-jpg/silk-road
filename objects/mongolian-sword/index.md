@@ -12,12 +12,11 @@ tags:
 
 # Mongolian Sword
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+Mongol saber or Turko-Mongol saber is a single-edged, slightly curved long sword. Used for a long time by Mongol cavalry in war. Most of the swords in medieval Europe were straight; that is to say, they were used to either cut and thrust or simply cut. Mongol saber on the other hand was far superior to European swords for the high speed warfare that the Mongols conducted on horseback. The curved shape of the Mongol saber enabled the rider to perform a ‘draw cut’, a cut which was made by slashing down at the enemy and then allowing the blade to continue on from the cut, rather than trying to pull the blade back through the cut in the opposite direction to the stroke. This would have required great force to combat the weight of the horse and the weight of the rider.
 
 
-## Your First Section Heading
+
+## Importance to the Empire
 {% include images/figure.html
 class="right"
 width="48%"
@@ -57,7 +56,7 @@ The pull quote you just saw is created with a simple `include` command in Markdo
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
 ## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
+{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/mongol-saber.wepb" %}
 
 The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
 
