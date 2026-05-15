@@ -45,16 +45,20 @@ This sword greatly influenced many later blades such as the Persian shamshir, In
 The Mongol Curved Sword therefore is a symbol of innovation on the Silk Road and at the same time a defender of the road, implementing the Khan’s law to the smallest detail.
 
 
-## Images Can Be Different Widths
+## Philosophy of Craft
 {% include images/figure.html class="right" width="60%" caption="Mongol Saber. 1271 - 1336 AD [Source](https://lkchensword.com/yuan-mongol-saber)" image-path="images/mongol-saber.png" %}
 
 Mongol blacksmiths made swords for horseback combat by building a sandwich of two metals: hard steel and soft iron.
 
 A sword made entirely of hard steel such as steel would be sharp as a razor and cut well, but would shatter on the first impact with a solid object, such as armor. A sword made entirely of soft iron such as wrought-iron would be very tough, but would bend easily, also losing its edge in battle.
 
-A Mongol blacksmith would have made a sword for horseback combat in much the same way by using a “sandwich” of hard steel and tough, yet flexible, iron. The hard, yet brittle steel, was used to make the very sharp cutting edge of the sword. The whole of the spine of the sword was made of the very tough, yet flexible, material of iron. [^source3]
+A Mongol blacksmith would have made a sword for horseback combat in much the same way by using a “sandwich” of hard steel and tough, yet flexible, iron. The hard, yet brittle steel, was used to make the very sharp cutting edge of the sword. The whole of the spine of the sword was made of the very tough, yet flexible, material of iron. 
+
+[^source3]
 
 [^source3]:Sifu Kuttel, Mongol Saber, 1
+
+
 ---
 
 ## Bibliography
