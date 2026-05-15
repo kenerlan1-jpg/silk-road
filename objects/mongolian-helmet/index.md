@@ -1,6 +1,6 @@
 ---
 author: Ken Meir
-title: "Mongolian Helmet"
+title: "Mongolian Armor"
 layout: base
 header-image: images/mongolian-helmet.jpg
 header-position: center 40%
@@ -10,64 +10,57 @@ tags:
   - object
 ---
 
-# Mongolian Helmet
+# Mongolian Armor Philosophy
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+The Mongols were ultra-mobile warriors and their armor was designed to enable them to keep moving at all times. This lamellar armor, or Mongolian khuyag, is made up of hundreds of individual iron or leather scales that are sewn onto a strong fabric backing, typically made of silk. The individual scales are free to move in any direction, similar to a fish’s scales, which allows for maximum flexibility of movement. This armor is best at protecting against slashing or piercing type of attacks.
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+[^source2]
+
+[^source2]: Wikipedia Contributors, Military of the Mongol Empire, 1
 
 
-## Your First Section Heading
+## Importance to the Empire
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a quiver from a Mongolian Composite Bow. [Source](https://www.metmuseum.org/art/collection/search/634458)"
+caption="Mongolian Rmog [Source](https://www.metmuseum.org/art/collection/search/26628)"
 image-path="images/mongolian-helmet.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
-
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^source1]
-
-[^source1]:*The Met* author name.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
+Another crucial aspect of the Mongol’s armory was the very fact that their light cavalry were unable to engage in combat with heavy infantry. This was rectified by the use of the iron lamellar armor, worn by the elite vanguard troops. The use of the tough fibers of silk in the soldier’s undershirt provided another innovation. The fibers of the strong silk would wrap around the arrow head penetrating the wound. When the arrow was pulled from the wound the fibers of the silk would be drawn out of the wound as well, preventing the arrow’s sharp barbs from tearing at the flesh and causing excessive bleeding. As the Mongols were constantly on campaign the wounds of their soldiers would thus have been much cleaner than those of their enemies, resulting in a lower mortality rate.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+[^source1]
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+[^source1]:Wikipedia Contributors, Mongolian Armour, 1
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Effect on The Silk Road
+A further important aspect of the armor was its export on the Silk Road to the West as well as to many parts of Asia. This meant that there was constantly a focus on new development, because the armor was always in the field. That is to say that the technology of Mongol armor was always tied to the Silk Road, the network of trade routes upon which the power of the Mongol Empire was based.
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+ Mongol armour drew its influence from Chinese, Middle Eastern, and Central Asian styles." %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+[^source3]
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+[^source3]:Aarathi Prasad, How Silk Helped the Armies of Genghis Khan Conquer Asia, 1
 
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
+## Direct Comparison
+{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://www.metmuseum.org/art/collection/search/788894)" image-path="images/mongol-armor.jpg" %}
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+European knights of the 13th century were clad in chainmail or very early plate armor, as opposed to other nations. Chainmail restricted movement somewhat, early plate armor even more, but for the Chinese Song Dynasty infantry it was far too heavy to be of any use. Fast moving Mongol cavalry, traveling long distances at high speed, required scale armor, but not too dense for close quarters combat. The emphasis for the Mongols was speed. Their armor needed to be strong enough but still retain the artibutes for fast scale warfare, that Genghis Khan used to suprise opponents.
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
+[^source4]
 
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+[^source4]: Mark Cartwright, Mongol Warfare, 1
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Prasad, Aarathi. 2024. “How Silk Helped the Armies of Genghis Khan Conquer Asia.” Literary  Hub. May 2024. https://lithub.com/how-silk-helped-the-armies-of-genghis-khan-conquer-asia/.
+- Wikipedia Contributors. 2021. “Mongolian Armour.” Wikipedia. June 15, 2021. https://en.wikipedia.org/wiki/Mongolian_armour.
+- Wikipedia Contributors. 2024a. “Military of the Mongol Empire.” Wikipedia. January 7, 2024. https://en.wikipedia.org/wiki/Military_of_the_Mongol_Empire.
+- Lamellar Shoulder Defenses, 14th-16th Century, The Met, New York City, https://www.metmuseum.org/art/collection/search/788894
+- Helmet (rmog), 15th-17th Century, The Met, New York City, https://www.metmuseum.org/art/collection/search/26628
+- Cartwright, Mark. 2019. “Mongol Warfare.” World History Encyclopedia. Mark Cartwright. October 10, 2019. https://www.worldhistory.org/Mongol_Warfare/.
