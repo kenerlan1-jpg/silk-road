@@ -39,9 +39,9 @@ The Composite Bow, with this massive amount of power packed into such a small fo
 ## Effect on Military Dominance
 It was this very style of fighting that would eventually lead to the development of the “Kite” or “Flight of the Geese” tactic in which a group of troops, or a tumen, would scatter arrows at enemy lines and then fall back. The archers would then return to the attack, firing off more arrows from their positions in the front lines of the troops. While mid 20th century Germany, popularized Blitzkrieg, the Mongols set the foundation with their tactics, and use of bows.
 
-[^source2]
+[^source3]
 
-[^source2]: Mark Cartwright, Mongol Warfare, 1
+[^source3]: Mark Cartwright, Mongol Warfare, 1
 
 
 
