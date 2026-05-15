@@ -38,7 +38,7 @@ The curved sword was a very effective sword in long hand to hand combat as it wa
 The Mongol Curved Sword was a very popular item of trade on the Silk Road of the Mongol Empire. The magnificent Mongol Curved Sword was highly exported to other cultures of the Silk Road.
 
 {% include typography/aside.html class="right" text="
-"The Mongol-style sabres continued to remain in use in Persia until the late 16th century, at which point they developed into the recognizable shamshir. The Mughal invasion of Afghanistan and India brought these sabres to the subcontinent, developing into the pulwar and talwar respectively..."" %}
+"The Mongol-style sabres continued to remain in use in Persia until the late 16th century, at which point they developed into the recognizable shamshir. The Mughal invasion of Afghanistan and India brought these sabres to the subcontinent, developing into the pulwar and talwar respectively..." %}
 
 This sword greatly influenced many later blades such as the Persian shamshir, Indian talwar and even the Polish szabla. The Mongols were true pioneers of metallurgy of the Silk Road. They spread high-carbon steels and special techniques of metalworking to other cultures. They also spread their inventions of forging
 
