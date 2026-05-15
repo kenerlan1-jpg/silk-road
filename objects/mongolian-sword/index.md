@@ -24,39 +24,29 @@ caption="This is a quiver from a Mongolian Composite Bow. [Source](https://www.m
 image-path="images/mongolian-sword.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
-
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^source1]
+The curved sword was seen by the Mongol Empire as a ‘finishing tool’ and its primary use would be in the latter stages of a battle. The bow would have done the initial damage to break up the enemy, then the curved sword would be used in a final charge to cut down any remaining enemy, who were in full retreat[^source1]
 
 [^source1]:*The Met* author name.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+The curved sword was a very effective sword in long hand to hand combat as it was light, strong and well balanced. The broadswords of the West were used for short powerful hacks and were not suitable for long hand to hand combat. The Mongols used their curved swords to great effect against their opponents, whether they were heavily armored knights of the Holy Roman Empire or the highly organized and disciplined infantry of the Song Dynasty in China.
+[^anotherrandomthing]
 
 [^anotherrandomthing]:Put your next footnote source information here.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
-
-
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Effect on the Silk Road
+The Mongol Curved Sword was a very popular item of trade on the Silk Road of the Mongol Empire. The magnificent Mongol Curved Sword was highly exported to other cultures of the Silk Road.
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+"The Mongol-style sabres continued to remain in use in Persia until the late 16th century, at which point they developed into the recognizable shamshir. The Mughal invasion of Afghanistan and India brought these sabres to the subcontinent, developing into the pulwar and talwar respectively..."" %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+This sword greatly influenced many later blades such as the Persian shamshir, Indian talwar and even the Polish szabla. The Mongols were true pioneers of metallurgy of the Silk Road. They spread high-carbon steels and special techniques of metalworking to other cultures. They also spread their inventions of forging
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+The Mongol Curved Sword therefore is a symbol of innovation on the Silk Road and at the same time a defender of the road, implementing the Khan’s law to the smallest detail.
+
 
 ## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/mongol-saber.png" %}
+{% include images/figure.html class="right" width="60%" caption="Mongol Saber. 1271 - 1336 AD [Source](https://lkchensword.com/yuan-mongol-saber)" image-path="images/mongol-saber.png" %}
 
 The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
 
