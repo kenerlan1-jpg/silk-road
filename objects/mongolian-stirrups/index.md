@@ -41,7 +41,9 @@ By the end of Kublai Khan's rule there were more than 1,400 postal stations in C
 
 They could travel for days and then jump off their horses at a relay station and, after a few minutes, be off again on another stage of their long journey. All news, decrees and taxes were dispatched across the vast stretches of the Empire in a matter of weeks.
 
-And it was the simple stirrup that provided the courier’s endurance to keep the communication lines open on the Silk Road. Thus the stirrup created a system that joined the East to the West in economic terms.[^source4]
+And it was the simple stirrup that provided the courier’s endurance to keep the communication lines open on the Silk Road. Thus the stirrup created a system that joined the East to the West in economic terms.
+[^source4]
+
 [^source4]:Alayna Williamson, Technological Developments in the Mongol Empire, 1
 
 ## Technological Expansion
@@ -53,6 +55,7 @@ The Mongols roamed the length and breadth of the Silk Road and so took the techn
 
 The equestrian revolution brought about by these stirrups was to have a profound effect on the face of warfare and lead to the development of the Western knight in the form of the knight.
 [^source5]
+
 [^source5]:Jamsranjav Bayarsaikhan, The Origins of Saddles and Riding Technology in East Asia: Discoveries from the Mongolian Altai, 1
 
 
