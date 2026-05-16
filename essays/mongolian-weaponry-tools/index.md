@@ -23,8 +23,8 @@ In large part, the story of the Mongol conquests has been told in terms of the w
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](thematic-pic.jpg)"
-image-path="images/ota-gate-khiva.jpg"
+caption="The "Golden Horde [Source](https://www.mongolianz.com/post/2025/04/18/the-golden-horde-legacy-of-a-mongol-empire-that-shaped-history/)"
+image-path="images/thematic-pic.jpg"
 %}
 
 The main mechanical feature of the Steppe warfare, or rather of the horseman and horse as a weapon system, was the stirrup. In fact the Mongols did not even invent the stirrup. It was created during the Iron Age in India, in the area of present day Pakistan. The nomads of the steppes reached its perfection however during the Mongol conquests. As already mentioned in the object section, a big amount of energy was saved due to the ergonomical shape of the horseman/ horse system of war. This was of major importance as it enabled the horseman to cover long distances in a short amount of time in order to reach his destination. He could travel up to 80-100 miles a day. Additionally, it was of great importance for the archer as it provided him with the stability he required. Therefore the horseman was able to stand in the saddle, turn around while riding, take the horse by the bridle and give full effect to his skills as an archer by making the so called “Parthian Shot”. This played a very important role in the creation and the functioning of the Steppe Empire.
@@ -68,7 +68,7 @@ In close combat situations the Mongol horseman would switch from his longbow and
 
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+Expert horsemen and archers, the Mongols proved unstoppable in Central Asia and beyond, defeating armies in Iran, Russia, Eastern Europe, China, and many other places." %}
 
 
 ## Conclusion
@@ -96,3 +96,5 @@ The four innovations can be seen to be working in concert in an integrated syste
 - Williamson, Alayna. 2020. “Technological Developments in the Mongol Empire.” Clemson.edu. Pressbooks. July 29, 2020. https://opentextbooks.clemson.edu/sciencetechnologyandsociety/chapter/technological-developments-in-the-mongol-empire/.
 - Ferragamo, Federico. 2022. “Technological Spread from Central Eurasia.” ArcGIS StoryMaps. Esri. December 17, 2022. https://storymaps.arcgis.com/stories/a3ed74e646844a0f995981d5e24823d8.
 - Finn, Tahric. 2022. “Mongolian Bow: History, Design & Performance - Archery Supplier.” Archerysupplier.com. April 24, 2022. https://archerysupplier.com/mongolian-bow-history-guide/.
+- Cartwright, Mark. 2019. “Mongol Empire.” World History Encyclopedia. November 11, 2019. https://www.worldhistory.org/Mongol_Empire/.
+- Mongolianz. 2025. “The Golden Horde: Legacy of a Mongol Empire That Shaped History - Mongolianz.” Mongolianz. April 18, 2025. https://www.mongolianz.com/post/2025/04/18/the-golden-horde-legacy-of-a-mongol-empire-that-shaped-history/.
