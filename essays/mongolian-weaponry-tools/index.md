@@ -68,7 +68,7 @@ In close combat situations the Mongol horseman would switch from his longbow and
 
 
 {% include typography/aside.html class="right" text="
-Expert horsemen and archers, the Mongols proved unstoppable in Central Asia and beyond, defeating armies in Iran, Russia, Eastern Europe, China, and many other places." %}
+'Expert horsemen and archers, the Mongols proved unstoppable in Central Asia and beyond, defeating armies in Iran, Russia, Eastern Europe, China, and many other places.'" %}
 
 
 ## Conclusion
