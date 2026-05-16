@@ -6,6 +6,8 @@ header-image: images/mongolian_quiver.jpg
 header-position: center 40%
 thumbnail: images/mongolian_quiver.jpg
 summary: Quiver from a Mongolian Composite Bow. A tool that enabled high precision horse back shooting.
+geo: [47.666196290695225, 92.81535383287651]
+placename: Mongolia
 tags:
   - object
 ---

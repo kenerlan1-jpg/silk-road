@@ -6,6 +6,8 @@ header-image: images/mongolian-helmet.jpg
 header-position: center 40%
 thumbnail: images/mongolian-helmet.jpg
 summary: Helmet from one of, if not, the most dominant military powers in human history.
+geo: [47.19325497445204, 102.82645147462645]
+placename: Mongolia
 tags:
   - object
 ---

@@ -6,6 +6,8 @@ header-image: images/strirrup.jpg
 header-position: center 40%
 thumbnail: images/stirrup-2.jpg
 summary: Used to enchance stability during horse riding. Saw use by Mongolian horse back archers to increase precision.
+geo: [30.921396360547433, 88.65339536603153]
+placename: Tibet
 tags:
   - object
 ---

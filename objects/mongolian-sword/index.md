@@ -6,7 +6,9 @@ header-image: images/mongol-sword2.jpg
 header-position: center 40%
 thumbnail: images/mongol-sword2.jpg
 summary: Standard issue sword for Mongolian cavalry. The curve edge of the blade made slashing from horseback easier.
-tags:
+geo: [43.195570933122404, 107.19888193317821]
+placename: Mongolia
+tags: Mongolia
   - object
 ---
 
