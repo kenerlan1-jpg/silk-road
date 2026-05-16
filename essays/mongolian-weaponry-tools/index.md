@@ -23,7 +23,7 @@ In large part, the story of the Mongol conquests has been told in terms of the w
 {% include images/figure.html
 class="right"
 width="48%"
-caption="The "Golden Horde [Source](https://www.mongolianz.com/post/2025/04/18/the-golden-horde-legacy-of-a-mongol-empire-that-shaped-history/)"
+caption="The "Golden Horde. [Source](https://www.mongolianz.com/post/2025/04/18/the-golden-horde-legacy-of-a-mongol-empire-that-shaped-history/)"
 image-path="images/thematic-pic.jpg"
 %}
 
